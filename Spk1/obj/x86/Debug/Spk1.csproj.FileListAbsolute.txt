@@ -1,0 +1,33 @@
+c:\users\putri\documents\visual studio 2010\Projects\Spk1\Spk1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\putri\documents\visual studio 2010\Projects\Spk1\Spk1\obj\x86\Debug\Spk1.frmutama.resources
+c:\users\putri\documents\visual studio 2010\Projects\Spk1\Spk1\obj\x86\Debug\Spk1.Properties.Resources.resources
+c:\users\putri\documents\visual studio 2010\Projects\Spk1\Spk1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\putri\documents\visual studio 2010\Projects\Spk1\Spk1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\putri\documents\visual studio 2010\Projects\Spk1\Spk1\bin\Debug\Spk1.exe
+c:\users\putri\documents\visual studio 2010\Projects\Spk1\Spk1\bin\Debug\Spk1.pdb
+c:\users\putri\documents\visual studio 2010\Projects\Spk1\Spk1\obj\x86\Debug\Spk1.exe
+c:\users\putri\documents\visual studio 2010\Projects\Spk1\Spk1\obj\x86\Debug\Spk1.pdb
+c:\users\putri\documents\visual studio 2010\Projects\Spk1\Spk1\obj\x86\Debug\Spk1.FrmMulai.resources
+C:\Users\PUTRI\documents\visual studio 2010\Projects\Spk1\Spk1\obj\x86\Debug\Spk1.Bantuan.resources
+C:\Users\PUTRI\documents\visual studio 2010\Projects\Spk1\Spk1\obj\x86\Debug\Spk1.tentang.resources
+C:\Users\Junior\Documents\spk\Spk1\Spk1\obj\x86\Debug\Spk1.exe
+C:\Users\Junior\Documents\spk\Spk1\Spk1\obj\x86\Debug\Spk1.pdb
+C:\Users\Junior\Documents\spk\Spk1\Spk1\bin\Debug\Spk1.exe
+C:\Users\Junior\Documents\spk\Spk1\Spk1\bin\Debug\Spk1.pdb
+C:\Users\Junior\Documents\spk\Spk1\Spk1\obj\x86\Debug\Spk1.csprojResolveAssemblyReference.cache
+C:\Users\Junior\Documents\spk\Spk1\Spk1\obj\x86\Debug\Spk1.Bantuan.resources
+C:\Users\Junior\Documents\spk\Spk1\Spk1\obj\x86\Debug\Spk1.frmutama.resources
+C:\Users\Junior\Documents\spk\Spk1\Spk1\obj\x86\Debug\Spk1.FrmMulai.resources
+C:\Users\Junior\Documents\spk\Spk1\Spk1\obj\x86\Debug\Spk1.Properties.Resources.resources
+C:\Users\Junior\Documents\spk\Spk1\Spk1\obj\x86\Debug\Spk1.tentang.resources
+C:\Users\Junior\Documents\spk\Spk1\Spk1\obj\x86\Debug\Spk1.csproj.GenerateResource.Cache
+D:\KULIAH\Semester 5\spk\spk fix\Spk1\Spk1\obj\x86\Debug\Spk1.exe
+D:\KULIAH\Semester 5\spk\spk fix\Spk1\Spk1\obj\x86\Debug\Spk1.pdb
+D:\KULIAH\Semester 5\spk\spk fix\Spk1\Spk1\bin\Debug\Spk1.exe
+D:\KULIAH\Semester 5\spk\spk fix\Spk1\Spk1\bin\Debug\Spk1.pdb
+D:\KULIAH\Semester 5\spk\spk fix\Spk1\Spk1\obj\x86\Debug\Spk1.Bantuan.resources
+D:\KULIAH\Semester 5\spk\spk fix\Spk1\Spk1\obj\x86\Debug\Spk1.frmutama.resources
+D:\KULIAH\Semester 5\spk\spk fix\Spk1\Spk1\obj\x86\Debug\Spk1.FrmMulai.resources
+D:\KULIAH\Semester 5\spk\spk fix\Spk1\Spk1\obj\x86\Debug\Spk1.Properties.Resources.resources
+D:\KULIAH\Semester 5\spk\spk fix\Spk1\Spk1\obj\x86\Debug\Spk1.tentang.resources
+D:\KULIAH\Semester 5\spk\spk fix\Spk1\Spk1\obj\x86\Debug\Spk1.csproj.GenerateResource.Cache
